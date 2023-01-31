@@ -1,2 +1,2 @@
-# Scientific-Calculator
-All functions of a scientific calculator and performs all mathematical operations
+# Calculator
+All functions of a calculator and performs all mathematical operations
